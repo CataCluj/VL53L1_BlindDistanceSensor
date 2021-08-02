@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 55667af395ec098e16fafff752d25071e287f113 CataCluj <catalin_cluj@hotmail.com> 1574969117 -0700	commit (initial): This mostly works but may skip toggles on fast distance changes
+55667af395ec098e16fafff752d25071e287f113 b7d61b6edad21d14358fa00f3b04353883c2e123 CataCluj <catalin_cluj@hotmail.com> 1574969272 -0700	commit: Test change only
+b7d61b6edad21d14358fa00f3b04353883c2e123 b560b07c1d17dab9bbfe336acbcd0bfb2ba18c6c CataCluj <catalin_cluj@hotmail.com> 1575671215 -0700	commit: Update "NewDist" only if uiSignalRate > 10 (maybe it should be higher)
+b560b07c1d17dab9bbfe336acbcd0bfb2ba18c6c 8a970d35d0068eaa3786a430f5d82a6c4c3c4d8f CataCluj <catalin_cluj@hotmail.com> 1627792434 -0600	commit: Changed some comments and a few other small things
