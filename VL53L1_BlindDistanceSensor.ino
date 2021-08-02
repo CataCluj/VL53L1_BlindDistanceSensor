@@ -1,5 +1,5 @@
 /*
-	Written by Cat Cristea based on public domain/beerware code from Nathan Seidle from SparkFun Electronics
+	Written by AnaCoda and CataCluj based on public domain/beerware code from Nathan Seidle from SparkFun Electronics
 	Date: 2019 - ...
 */
 
